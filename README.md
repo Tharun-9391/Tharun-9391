@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharun-teja&show_icons=true&theme=radical" alt="tharun-teja" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun-teja&layout=compact&theme=radical" alt="tharun-teja" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharun-9391&show_icons=true&theme=radical" alt="tharun-teja" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-9391&layout=compact&theme=radical" alt="tharun-teja" />
 </p>
 
 ---
