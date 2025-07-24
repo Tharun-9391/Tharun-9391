@@ -10,7 +10,7 @@
 - 💡 I love building full-stack apps, dashboards, and AI-based tools
 - 💼 I'm actively working on projects like **College Admission Predictor** and **COVID-19 Time-Series Dashboard**
 - 💬 Ask me about anything related to **Python, Flask, Git, React, Firebase**
-- 📫 How to reach me: **tharun@example.com**
+- 📫 How to reach me: **chandatharunteja1@gmail.com**
 - ⚡ Fun fact: I enjoy working on unique side projects & mentoring juniors!
 
 ---
@@ -54,19 +54,17 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/tharun-teja" target="_blank">
+  <a href="[https://www.linkedin.com/in/tharun-teja](https://www.linkedin.com/in/chanda-tharunteja-277611258/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tharun@example.com">
+  <a href="mailto:chandatharunteja1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tharun-teja">
+  <a href="https://github.com/Tharun-9391">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌟 Quote to Live By
 
-> *"The best way to predict the future is to create it."* — Alan Kay
