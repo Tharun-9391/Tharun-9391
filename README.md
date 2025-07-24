@@ -54,7 +54,7 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/tharun-teja](https://www.linkedin.com/in/chanda-tharunteja-277611258/)" target="_blank">
+  <a href="https://www.linkedin.com/in/chanda-tharunteja-277611258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chandatharunteja1@gmail.com">
