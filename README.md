@@ -36,12 +36,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tharun-9391&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tharun-9391&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tharun-9391&layout=compact&theme=radical&cache_seconds=1800" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tharun-9391&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 ---
